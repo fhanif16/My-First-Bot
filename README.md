@@ -27,7 +27,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-repo-name/customer-support-ai.git  
+[git clone https://github.com/your-repo-name/customer-support-ai.git  ](https://github.com/fhanif16/My-First-Bot.git)
 cd customer-support-ai  
 Install dependencies:
 
@@ -64,5 +64,5 @@ Copy
 Edit
 npm start  
 6. Live Project and Resources:
-Live Project: View Live Project #my-first-bot-jade.vercel.app.
+Live Project: View Live Project [my-first-bot-jade.vercel.app](my-first-bot-jade.vercel.app).
 Additional Resources: Material UI Documentation, OpenAI API Documentation.
