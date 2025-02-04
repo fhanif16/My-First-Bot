@@ -64,5 +64,5 @@ Copy
 Edit
 npm start  
 6. Live Project and Resources:
-Live Project: View Live Project (Replace # with the actual URL).
+Live Project: View Live Project #my-first-bot-jade.vercel.app.
 Additional Resources: Material UI Documentation, OpenAI API Documentation.
